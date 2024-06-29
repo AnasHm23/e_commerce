@@ -1,0 +1,13 @@
+*pyc
+__pycache__/
+
+# packaging
+dj_env/
+
+## django stuff:
+db.sqlite3
+
+media/
+
+# static file
+staticfiles/
